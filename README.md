@@ -10,5 +10,5 @@ Softwares:
 Action items:
 
 1. CI/CD: Jenkins, Docker,Kubernetes
-2: Scaling: Auto Scaling
-3: PCF
+2. Scaling: Auto Scaling
+3. PCF
