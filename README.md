@@ -1,4 +1,4 @@
-# spring-boot
+# spring boot
 This Repository used for all spring boot projects.
 
 Softwares:
